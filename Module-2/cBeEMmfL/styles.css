@@ -1,0 +1,93 @@
+font-face{
+    font-family:"Stardew-Valley";
+    src: url(StardewValley.ttf);
+}
+
+body{
+    font-family: "Stardew-Valley";
+    background-image:linear-gradient(#A363AC,#D4a4DE);
+}
+
+.header{
+    text-align: center;
+    margin-bottom: 0px;
+}
+#header-1{
+    margin: 5px 0px 0px 0px;
+}
+
+#header-2{
+    margin: 0px 0px;
+}
+.event-town{
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 5px;   
+}
+
+.event-intro{
+    text-align: center;
+    margin-top: 0px
+}
+.event-flower-dance-img{
+    margin: 20px auto;
+    max-width: 600px;
+    height: 400px;
+    border: 6px solid pink;
+    border-radius: 10px;
+    background-image: url("images/flower-festival.jpeg");
+    background-size: cover;
+}
+
+#event-flower-dance-gif:hover{
+    background-image: url("images/flower-dance.gif")
+}
+.event-jellys-img{
+    margin: 20px auto;
+    max-width: 600px;
+    height: 400px;
+    border: 6px solid pink;
+    border-radius: 10px;
+    background-image: url("images/moonlight-jellies.jpeg");
+    background-size: cover;
+}
+
+.event-spirits-eve{
+    margin: 20px auto;
+    max-width: 600px;
+    height: 400px;
+    border: 6px solid pink;
+    border-radius: 10px;
+    background-image: url("images/spirits-eve.png");
+    background-size: cover;
+}
+
+.event-ice{
+    margin: 20px auto;
+    max-width: 600px;
+    height: 400px;
+    border: 6px solid pink;
+    border-radius: 10px;
+    background-image: url("images/fest-ice.jpeg");
+    background-size: cover;
+}
+
+.event-night-market{
+    margin: 20px auto;
+    max-width: 600px;
+    height: 400px;
+    border: 6px solid pink;
+    border-radius: 10px;
+    background-image: url("images/night-market.jpeg");
+    background-size: cover;
+}
+
+.linus-profile-img {
+    margin: 20px auto;
+    max-width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("images/linus.jpeg");
+    background-size: cover;
+    }
