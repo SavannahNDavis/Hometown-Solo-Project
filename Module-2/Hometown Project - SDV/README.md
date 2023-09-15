@@ -1,5 +1,5 @@
 # Hometown Project - Stardew Valley Edition
-Take a tour of Stardew Valley with your tour guide - Lewis. Lewis has been in Stardew Valley for years and knows many of the in & outs of the small seaside town. You may even get to meet a few residents along your tour. From flowers to crops to spooky mazes, Stardew Valley has something for everyone. 
+Take a tour of Stardew Valley with your tour guide - Linuss. Linus has been in Stardew Valley for years and knows many of the in & outs of the small seaside town. You may even get to meet a few residents along your tour. From flowers to crops to spooky mazes, Stardew Valley has something for everyone. 
 
 (All Stardew Valley images, characters, descriptions, and references belong to @ConcernedApe).
 
